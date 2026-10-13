@@ -1,0 +1,1 @@
+// validator — AI meme generator
